@@ -1,0 +1,21 @@
+nav.wpt_schema_breadcrumbs ol {
+    display: flex;
+    list-style: none;
+    flex-wrap: nowrap;
+    align-items:  stretch;
+    margin: 0;
+    justify-content: end;
+    padding: 0 !important;
+}
+
+nav.wpt_schema_breadcrumbs li {
+    margin: 0 0 0 10px;
+    list-style: none;
+}
+
+nav.wpt_schema_breadcrumbs li a {}
+
+nav.wpt_schema_breadcrumbs li.wpt_breadcrumb_separator {
+	font-size: 0.9em;
+}
+
